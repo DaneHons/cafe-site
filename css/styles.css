@@ -1,0 +1,52 @@
+.container-content {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border-top: 3px ridge;
+}
+
+.collage {
+    margin: 7px;
+    width: 225px;
+    height: 163px;
+}
+
+.jumbotron {
+    background-image: url("https://pixnio.com/free-images/2017/07/28/2017-07-28-07-41-51-900x600.jpg");
+    background-size: cover;
+    color: white;
+}
+
+.shadow {
+    background-color: rgba(0, 0, 0, .5);
+}
+
+.fa-shopping-cart {
+    font-size: 30pt;
+    margin: 20px;
+}
+
+footer {
+    border-top: 3px ridge;
+}
+
+footer a {
+    color: black;
+}
+
+.jumbotron a {
+    color: white;
+}
+
+.carousel-caption {
+    background-color: $color-transparent-black;
+}
+
+.carousel {
+    border: solid $color-secondary;
+}
+
+#carouselButton {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
